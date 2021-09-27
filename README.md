@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/agr_kushal" target="blank"><img src="https://img.shields.io/twitter/follow/agr_kushal?logo=twitter&style=for-the-badge" alt="agr_kushal" /></a> </p>
 
-- 🔭 I’m currently working on [Amazine](https://github.com/Kushalrock/amazine)
+- 🔭 I’m currently working on [Routinger](https://github.com/Routinger/routinger)
 
 - 🌱 I’m currently learning **Flutter**
 
